@@ -1,0 +1,10 @@
+C:\_Software\GitRepos\DesktopIcons\bin\Debug\DesktopIcons.exe.config
+C:\_Software\GitRepos\DesktopIcons\bin\Debug\DesktopIcons.exe
+C:\_Software\GitRepos\DesktopIcons\bin\Debug\DesktopIcons.pdb
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.csproj.AssemblyReference.cache
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.Form1.resources
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.Properties.Resources.resources
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.csproj.GenerateResource.cache
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.csproj.CoreCompileInputs.cache
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.exe
+C:\_Software\GitRepos\DesktopIcons\obj\Debug\DesktopIcons.pdb
